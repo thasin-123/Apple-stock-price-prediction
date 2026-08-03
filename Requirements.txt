@@ -4,4 +4,4 @@ xgboost
 scikit-learn
 pandas
 numpy
-matplotlib
+matplotlib.pyplot
